@@ -1,3 +1,4 @@
+/* All Pages */
 #main-header{
 	float: left;
 	margin-top: 45px;
@@ -55,3 +56,12 @@ video{
   height:auto;
   border-radius: 5%;
 }
+
+h1  {
+  font-variant: small-caps;
+}
+/* Resume */
+
+/* Index */
+
+/* Hobbies */
