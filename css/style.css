@@ -47,6 +47,9 @@ video{
 .underline {
   text-decoration: underline;
 }
+.cursive {
+	font-family: cursive;
+}
 /* Index */
 .row {
   display: flex;
