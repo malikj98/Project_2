@@ -13,6 +13,9 @@ body{
 img{
   height: 300px;
 }
+nav ul{
+	height: 60px;
+}
 
 /* Nav Menu */
 #navbar {
@@ -29,16 +32,8 @@ img{
 }
 
 #navbar a {
-  float: left;
-  padding: 0;
-  color: white;
+  padding: 12px;
   text-decoration: none;
-  font-size: 15px;
-  width: 5%;
-  position: center;
-  margin: 0;
-  text-align: center;
-  list-style-type: none;
 }
 
 /* Background Mouse Over */
