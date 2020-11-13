@@ -20,7 +20,6 @@ img{
   background-color: #555;
   overflow: auto;
   float: none;
-  position: center;
   justify-content: space-evenly;
   transform: translate(-50%, -50%);
 }
@@ -36,6 +35,7 @@ ul {
   text-decoration: none;
   font-size: 15px;
   width: 5%;
+  position: center;
   margin: 0;
   text-align: center;
   list-style-type: none;
