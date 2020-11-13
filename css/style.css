@@ -13,6 +13,7 @@ body{
 img{
   height: 300px;
   float: left;
+  display: block;
 }
 nav ul{
 	height: 60px;
