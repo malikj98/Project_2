@@ -6,6 +6,14 @@
 	font-size: 36px;
 	color: #fff;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 body{
   margin-left: 10px;	
   background: rgb(92,86,210);
