@@ -28,6 +28,10 @@ ul {
 }
 
 /* Nav Links */
+#navbar li {
+  display: inline;
+}
+
 .navbar a {
   float: left;
   padding: 0;
