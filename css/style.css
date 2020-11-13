@@ -28,13 +28,11 @@ nav ul{
   list-style: none;
   text-align: center;
   background-color: grey;
-  position: fixed;
 }
 
 /* Nav Links */
 #navbar li {
   display: inline;
-  position: fixed;
 }
 
 #navbar a {
