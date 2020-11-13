@@ -7,6 +7,7 @@
 	color: #fff;
 }
 body{
+  margin-left: 10px;	
   background: rgb(92,86,210);
   background: linear-gradient(180deg, rgba(92,86,210,1) 27%, rgba(0,212,255,1) 77%, rgba(9,9,121,1) 100%);
 }
