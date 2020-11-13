@@ -72,7 +72,10 @@ video{
 }
 /* Index */
 .row {
-  display: flex;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .column {
