@@ -32,11 +32,12 @@ ul {
 /* Nav Links */
 .navbar a {
   float: left;
-  padding: 12px;
+  padding: 0;
   color: white;
   text-decoration: none;
   font-size: 15px;
   width: 5%;
+  margin: 0;
   text-align: center;
   list-style-type: none;
 }
